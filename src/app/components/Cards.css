@@ -1,7 +1,11 @@
 cards-section {
   padding: 1.5rem;
 }
-
+.texto-btn{
+  display:flex;
+  justify-content: space-between;
+  
+}
 .cards-title {
   font-size: 2.25rem; 
   font-weight: 800;
